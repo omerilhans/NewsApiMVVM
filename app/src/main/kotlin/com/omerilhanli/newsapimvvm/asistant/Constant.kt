@@ -13,4 +13,4 @@ const val FOR_API_PATTERN = "yyyy-MM-dd"
 const val FOR_VIEW_PATTERN = "MMM dd, yyyy / HH:mm"
 
 
-const val URL_GITHUB="https://github.com/omerilhans"
+const val URL_GITHUB="https://github.com/omerilhans/NewsApiMVVM"
