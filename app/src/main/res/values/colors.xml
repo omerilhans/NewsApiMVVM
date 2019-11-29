@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#20CAB8</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorSecondary">#212B31</color>
+    <color name="colorThirt">#0D292E</color>
+
+    <color name="bg_search_zone">#CBEEF7FD</color>
+    <color name="bg_card_color">#DADADA</color>
+
+    <color name="translucent">#77000000</color>
+</resources>

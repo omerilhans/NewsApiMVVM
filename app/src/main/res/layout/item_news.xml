@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:abc="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="com.omerilhanli.newsapimvvm.asistant.util.UtilBinding" />
+
+        <variable
+            name="article"
+            type="com.omerilhanli.newsapimvvm.mvvm.model.entity.Article" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cvItem"
+        android:layout_width="match_parent"
+        android:layout_height="324dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="8dp"
+        abc:cardUseCompatPadding="true"
+        app:cardBackgroundColor="@color/bg_card_color"
+        app:cardCornerRadius="4dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="12dp">
+
+            <ImageView
+                android:id="@+id/imgNews"
+                android:layout_width="match_parent"
+                android:layout_height="210dp"
+                abc:bindUrl="@{article.urlToImage}"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tvNewsDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/imgNews"
+                android:background="@color/translucent"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:padding="8dp"
+                android:text="@{UtilBinding.toFormattedDate(article.publishedAt)}"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="@string/txt_tools_date" />
+
+            <TextView
+                android:id="@+id/tvNewsTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/imgNews"
+                android:background="@color/translucent"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:padding="12dp"
+                android:text="@{article.title}"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/imgNews"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:text="@string/txt_tools_title" />
+
+            <TextView
+                android:id="@+id/tvNewsDesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imgNews"
+                android:ellipsize="end"
+                android:maxLines="4"
+                android:paddingLeft="8dp"
+                android:paddingTop="12dp"
+                android:paddingRight="8dp"
+                android:paddingBottom="12dp"
+                android:text="@{article.description}"
+                android:textColor="@android:color/black"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imgNews"
+                tools:text="@string/txt_tools_date" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>

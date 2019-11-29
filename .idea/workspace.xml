@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76a759b0-b92c-426c-b84b-815faae48635" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="B1675212362" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/ModelMain.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="e#48#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/ModelNews.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>package com.omerilhanli.newsapiapp.mvvm.layer.model.entity</find>
+      <find>package com.omerilhanli.newsapiapp.asistant.util</find>
+      <find>package com.omerilhanli.newsapiapp.mvvm.contract</find>
+      <find>override</find>
+      <find>observe</find>
+      <find>NetworkInfo</find>
+      <find>model</find>
+      <find>openDatePicker</find>
+      <find>package com.omerilhanli.newsapiapp.api.constant</find>
+      <find>package com.omerilhanli.newsapiapp.asistant.callback</find>
+      <find>viewModel</find>
+      <find>isNetworkStatus</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>package com.omerilhanli.mvvmnewsapp.api.model</replace>
+      <replace>package com.omerilhanli.mvvmnewsapp.asistant.util</replace>
+      <replace>package com.omerilhanli.mvvmnewsapp.mvvm.contract</replace>
+      <replace>package com.omerilhanli.mvvmnewsapp.api.constant</replace>
+      <replace>package com.omerilhanli.mvvmnewsapp.asistant.callback</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/BaseContract.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/MainContract.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/NewsContract.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/viewmodel/NewsViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/factory/ViewModelFactory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/factory/ViewModelFactory.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/module/ViewModelModule.java" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/factory/ViewModelKey.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_news.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/module/ModuleViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/module/ModuleViewModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/api/constant/ApiConst.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/module/ModuleApi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/api/constant/ApiEnd.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/api/Api.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/callback/DateSelection.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/MainModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/App.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/NewsModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/component/AppComponent.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/view/activity/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/ContractMain.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/IModelMain.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/ModelMain.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/IModelNews.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di/module/ModuleModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/viewmodel/ViewModelMain.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/ModelNews.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/callback/ItemClickListener.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/view/adapter/ArticleAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/Constant.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/extension/Extension2.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/extension/Extension.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/extension/ExtensionCommon.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/util/UtilBinding.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_news.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/entity/DeclarativeDate.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/view/fragment/NewsFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/extension/ExtensionDate.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/viewmodel/ViewModelNews.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/Constant.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/activity/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/extension/ExtensionCommon.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/extension/ExtensionDate.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/ModelNews.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="23" />
+    <option name="width" value="1358" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="newsapimvvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="newsapimvvm" type="462c0819:PsiDirectoryNode" />
+              <item name="asistant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="newsapimvvm" type="462c0819:PsiDirectoryNode" />
+              <item name="mvvm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsappmvvm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsApiMvvm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="newsapimvvm" type="462c0819:PsiDirectoryNode" />
+              <item name="mvvm" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="general_mobile-gm8_go-B1675212362" />
+    <property name="DEBUGGABLE_PROCESS" value="com.omerilhanli.mvvmnewsapp" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.omerilhanli.mvvmnewsapp" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.model.entity.observable" />
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.view.activity" />
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.view.fragment" />
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.view.adapter" />
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.view" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.contract" />
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.model" />
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm" />
+      <recent name="com.omerilhanli.mvvmnewsapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.omerilhanli.mvvmnewsapp.di.module" />
+      <recent name="com.omerilhanli.mvvmnewsapp.api" />
+      <recent name="com.omerilhanli.mvvmnewsapp.mvvm.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/extension" />
+      <recent name="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/di" />
+      <recent name="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract" />
+      <recent name="$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a759b0-b92c-426c-b84b-815faae48635" name="Default Changelist" comment="" />
+      <created>1574842412726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574842412726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="23" width="1358" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49879518" visible="true" weight="0.27355623" />
+      <window_info id="Structure" order="3" sideWeight="0.50120485" side_tool="true" weight="0.2453505" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.29638556" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.30843374" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3120482" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Fabric" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/fragment/NewsFragment.kt</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/fragment/NewsFragment.kt</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/fragment/NewsFragment.kt</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/fragment/NewsFragment.kt</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/fragment/NewsFragment.kt</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/activity/MainActivity.kt</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/ModelNews.kt</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/fragment/NewsFragment.kt</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/entity/observable/ObservablePosterUrl.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/model/BaseModel.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/api/ApiCallback.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/api/ApiEnquee.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/BaseContract.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/MainContract.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/mvvm/contract/NewsContract.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0-rc01/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-rc01-sources.jar!/androidx/lifecycle/LiveData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3295">
+          <caret line="187" column="23" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/android/net/ConnectivityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="116" column="22" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="22" />
+          <folding>
+            <element signature="e#4142#4143#0" expanded="true" />
+            <element signature="e#4193#4194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_news.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/omerilhanli/mvvmnewsapp/databinding/ItemNewsBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/omerilhanli/mvvmnewsapp/di/component/AppComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/mvvmnewsapp/asistant/util/UtilDialog.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/callback/DateSelection.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/callback/ItemClickListener.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/api/constant/ApiConst.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/api/constant/ApiEnd.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/api/Api.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/util/UtilBinding.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#51#781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/di/component/AppComponent.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#50#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/di/factory/ViewModelFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#48#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/di/factory/ViewModelKey.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#48#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/di/module/ModuleApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#47#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/di/module/ModuleModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#47#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/di/module/ModuleViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#47#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/entity/observable/ViewVisibility.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/entity/Article.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#55#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/entity/Source.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/entity/News.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#55#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/adapter/ArticleAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#55#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/entity/DeclarativeDate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="61" lean-forward="true" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/contract/IModelMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/contract/IModelNews.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#51#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/fragment/NewsFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelNews.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/App.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#37#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_dialog.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/Constant.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/viewmodel/ViewModelMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="e#52#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/android/app/DatePickerDialog.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/extension/ExtensionCommon.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="77" column="33" lean-forward="true" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/view/activity/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_news.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="63" column="27" lean-forward="true" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+          <folding>
+            <element signature="e#2230#2257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/asistant/extension/ExtensionDate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/ModelNews.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/com/omerilhanli/newsapimvvm/mvvm/model/ModelMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#48#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

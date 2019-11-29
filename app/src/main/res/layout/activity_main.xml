@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:abc="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="fragment"
+            type="com.omerilhanli.newsapimvvm.mvvm.view.fragment.NewsFragment" />
+
+
+        <variable
+            name="fragmentManager"
+            type="androidx.fragment.app.FragmentManager" />
+
+    </data>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/mainFrameContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        abc:addFragment="@{fragment}"
+        abc:fragmentManager="@{fragmentManager}" />
+</layout>

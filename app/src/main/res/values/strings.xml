@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News Api MVVM Sample</string>
+
+    <string name="search_hint">Type a word for searching</string>
+    <string name="txt_okey">OKEY</string>
+    <string name="txt_warn">Warning!</string>
+    <string name="txt_please_typing">Please type a word for searching the news! :o</string>
+
+    <string name="txt_tools_date">News Date</string>
+    <string name="txt_tools_title">News Title</string>
+    <string name="txt_tools_desc">News Desc</string>
+</resources>

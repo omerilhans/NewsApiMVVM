@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+
+        <import type="androidx.appcompat.app.AlertDialog" />
+
+        <variable
+            name="dialog"
+            type="AlertDialog" />
+
+        <variable
+            name="description"
+            type="String" />
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialog_background_inset"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="8dp"
+        android:paddingBottom="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="@string/txt_warn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@{description}"
+            tools:text="Desc" />
+
+        <TextView
+            android:id="@+id/btnOk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button"
+            android:paddingLeft="36dp"
+            android:paddingTop="8dp"
+            android:paddingRight="36dp"
+            android:paddingBottom="8dp"
+            android:text="@string/txt_okey"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</layout>
